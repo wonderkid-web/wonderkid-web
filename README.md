@@ -1,4 +1,4 @@
-[![MasterHead]([https://res.cloudinary.com/practicaldev/image/fetch/s--NzgxrJEe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mdvk568xm4hmk3bjfsqs.gif)](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://github.com/wonderkid-web)
+[![MasterHead]([https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif])(https://github.com/wonderkid-web)
 
 <h1 align="center">Hi 👋, I'm Muhammad Wahyu Ramadhan</h1>
 <h3 align="center">And I Love Programming!</h3>
